@@ -1,9 +1,9 @@
 ---
-title: "Contact"
+title: ""
 description: "Contact the author"
 navIndex: 4
 ---
 
-CONTACT ME:
+## Contact
 
-CONTACT INFORMATION
+Under construction.

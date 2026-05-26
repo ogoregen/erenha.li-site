@@ -1,8 +1,12 @@
 ---
-title: "Articles"
-description: ""
+title: ""
+description: "Aricles list"
 navIndex: 1
 ---
 
-This page contains all the links for our very cool articles.
+## Articles
+
+[Is There Anything Better to Do Expect This](/pro-quin-prodes-in-delos)
+
+[Is There Anything Better to Do Expect That](/worth-a-thousand-words.mdoc)
 

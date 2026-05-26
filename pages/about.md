@@ -1,9 +1,9 @@
 ---
-title: "About the Author"
+title: ""
 description: "About section"
 navIndex: 4
 ---
 
-ABOUT THE AUTHOR
+## About the author
 
-AUTHOR INFORMATION
+Under construction.

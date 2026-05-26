@@ -1,10 +1,16 @@
 
-{% block features="fly-flex fly-flex-space-between eren-header" %}
+{% block features="eren-header" %}
 
-{% navLink path="articles" title="Articles" /%}
+	{% block features="left" %}
+		{% navLink path="articles" title="ARTICLES" /%}
+	{% /block %}
 
-{% navLink path="" title="HOME" /%}
+	{% block features="center" %}
+		{% navLink path="" title="HOME" /%}
+	{% /block %}
 
-{% navLink path="fun-stuff" title="Fun Stuff" /%}
+	{% block features="right" %}
+		{% navLink path="fun-stuff" title="MISC" /%}
+	{% /block %}
 
 {% /block %}
